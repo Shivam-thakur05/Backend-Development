@@ -1,7 +1,7 @@
-# Backend Development Learning Project
+# Backend Development 
 
 ## Introduction
-This project is designed to help you learn and master backend development. It covers essential concepts, tools, and technologies used in creating robust and scalable server-side applications.
+This Repository is designed for my learning and master backend development. It covers essential concepts, tools, and technologies used in creating robust and scalable server-side applications.
 
 ## Table of Contents
 1. Getting Started
@@ -10,10 +10,9 @@ This project is designed to help you learn and master backend development. It co
 4. Setup Instructions
 5. Learning Resources
 6. Contributing
-7. License
 
 ## Getting Started
-To get started with this project, clone the repository and follow the setup instructions below.
+To get started with this series, clone the repository and follow the setup instructions below.
 
 ## Technologies Used
 - **Node.js**: JavaScript runtime for building server-side applications.
@@ -22,7 +21,7 @@ To get started with this project, clone the repository and follow the setup inst
 - **Mongoose**: ODM library for MongoDB and Node.js.
 - **Postman**: Tool for testing APIs.
 
-## Project Structure
+## Detail Structure
 
 
 ## Setup Instructions
